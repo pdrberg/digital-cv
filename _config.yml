@@ -4,5 +4,17 @@ description: Patrick Bergenhenegouwen's CV
 
 github_username: pdrberg
 
+# Build settings
+markdown: kramdown
+theme: minima
+plugins:
+  - jekyll-feed
+sass:
+  sass-dir: _sass
+  style: compressed
+host: 0.0.0.0
+
+published: true
+futue: true
 
 
